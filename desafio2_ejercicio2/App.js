@@ -566,7 +566,7 @@ const ListaArchivosScreen = () => {
               {item.location && (
                 <TouchableOpacity 
                   style={styles.noteLocation}
-                  onPress={() => Linking.openURL(`https://www.google.com/maps?q=${item.location.latitude},${item.location.longitude}`)}
+                  onPress={() => Linking.openURL(`https://www.google.com/maps?q=13.8333,-88.9167`)}
                 >
                   <MaterialIcons name="location-on" size={16} color="#4a8cff" />
                   <Text style={styles.noteLocationText}>Ver ubicación</Text>
