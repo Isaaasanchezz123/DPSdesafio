@@ -49,9 +49,9 @@ React Navigation
 Expo File System
 
 📧 Contacto
-¿Preguntas o sugerencias?
+
 ✉️ willian.artiaga18@gmail.com
-✉️ isaccsegurasanchez@gmail.com
+✉️ isaacsugura@gmail.com
 
 © 2025 - Universidad Don Bosco
 Desarrollo de Proyectos de Software (DPS)
