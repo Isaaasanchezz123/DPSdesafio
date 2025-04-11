@@ -75,3 +75,5 @@ Ejecutar npm install para instalar dependencias.
 Revisar el documento PDF para entender el alcance.
 
 Modificar/Mejorar el código según sea necesario.
+
+Proyecto 2025.
