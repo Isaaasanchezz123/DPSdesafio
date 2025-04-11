@@ -6,6 +6,12 @@ Universidad Don Bosco
 Nombre	Carnet
 Bryan Willian Hernández Artiaga	HA231511
 David Isaac Segura Sánchez	SS231442
+
+
+
+
+
+
 📱 Descripción del Proyecto
 Bitácora Visual es una aplicación móvil desarrollada en React Native que permite:
 ✅ Capturar fotos y videos con la cámara del dispositivo
@@ -14,13 +20,18 @@ Bitácora Visual es una aplicación móvil desarrollada en React Native que perm
 ✅ Organizar archivos multimedia en una galería
 ✅ Filtrar por tipo (fotos/videos) o buscar por texto
 
-⚙️ Instalación y Ejecución
-📥 Requisitos Previos:
+⚙ Instalación y Ejecución
+
+ 
+ Requisitos Previos:
 Node.js (v16+)
 
 Expo CLI (npm install -g expo-cli)
 
-📌 Indicaciones Importantes
+
+
+
+Indicaciones Importantes
 Documento Físico:
 
 los archivos Ejercicio, y Ejercicio2  en la rama master contiene toda la documentación técnica.
